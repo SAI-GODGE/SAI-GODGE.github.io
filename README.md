@@ -12,7 +12,7 @@ This is my professional portfolio showcasing my skills, certifications, and proj
 
 🔗 [View Live Portfolio]
 
-(https://SAI-GODGE.github.io/portfolio/)
+(https://SAI-GODGE.github.io/)
 ---
 
 ## 💻 About Me

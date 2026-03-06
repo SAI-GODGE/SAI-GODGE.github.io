@@ -6,9 +6,11 @@ Welcome to my professional portfolio! This repository showcases my **projects, s
 
 ---
 
-## 🔗 Live Portfolio
-[View My Portfolio](https://SAI-GODGE.github.io/portfolio/)
+# My DevOps & Cloud Portfolio
 
+This is my professional portfolio showcasing my skills, certifications, and projects in DevOps, Linux, and Cloud.
+
+🔗 [View Live Portfolio](https://SAI-GODGE.github.io/portfolio/)
 ---
 
 ## 💻 About Me

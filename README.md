@@ -12,7 +12,7 @@ This is my professional portfolio showcasing my skills, certifications, and proj
 
 🔗 [View Live Portfolio]
 
-(https://SAI-GODGE.github.io/)
+(https://SAI-GODGE.github.io/Saiprasad Sambhaji Godge.pdf)
 ---
 
 ## 💻 About Me

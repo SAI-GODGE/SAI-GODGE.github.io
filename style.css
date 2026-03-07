@@ -113,7 +113,8 @@ header h1 {
 /* Typing effect container below subtitle */
 .typing-container {
     margin-top: 10px;
-    font-size: 1.2rem;
+    margin-bottom: 25px;
+    font-size: 2.2rem;
     color: var(--primary);
     font-weight: 600;
     text-align: center;

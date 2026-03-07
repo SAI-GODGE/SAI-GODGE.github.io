@@ -1,6 +1,6 @@
 // --- Animated Typing Effect ---
 const typingTextElement = document.getElementById('typing-text');
-const phrases = ["Linux System Administrator", "Red Hat Certified Engineer", "Aws Cloud Practitioner"];
+const phrases = ["Linux System Administrator", "Red Hat Certified Engineer", "Aws Cloud Practitioner", "Cloud Engineer"];
 let phraseIndex = 0;
 let letterIndex = 0;
 let isDeleting = false;

@@ -366,7 +366,8 @@ header h1 {
 .tech-stack {
     margin-top: 20px;
     display: flex;
-    gap: 15px;
+    gap: 10px;
+    flex-wrap: wrap;
     font-family: 'Fira Code', monospace;
     font-size: 0.8rem;
     color: var(--accent);
@@ -376,6 +377,7 @@ header h1 {
 .tech-stack span:hover {
     color: var(--accent);
     cursor: default;
+    font-size: 14px;
 }
 
 /* --- Contact --- */

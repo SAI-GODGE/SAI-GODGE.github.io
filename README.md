@@ -55,6 +55,11 @@ A smart system that monitors Linux servers, alerts administrators, and auto-fixe
 **Technologies:** Linux, Bash Scripting, Cron Jobs, Grafana, Prometheus  
 [GitHub Link](https://github.com/SAI-GODGE/Major-Project-)
 
+### DevOps CI/CD Pipeline Project
+A CI/CD pipeline that automatically builds and deploys a containerized web application using Jenkins and Podman. Whenever code is pushed to GitHub, Jenkins pulls the repository, builds the container image, and runs the application inside a container.
+**Technologies:** Jenkins, Podman, GitHub, Nginx, CI/CD Automation
+[GitHub Link](https://github.com/SAI-GODGE/devops-cicd-project)
+
 ### Smart Compliance Monitoring System
 Automated system to track hand hygiene compliance among hospital staff.  
 **Technologies:** Hardware Sensors, Data Tracking, Automation, Basic Embedded Programming  
